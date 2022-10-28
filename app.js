@@ -8,9 +8,9 @@ const timer = setInterval( () => {
     counter++;
     counter_result.innerHTML = counter;
     
-    if (counter === 9) {
+   /* if (counter === 9) {
         clearInterval(timer)}
-    {
+    */{
 }  } , 1000 )
   
 
